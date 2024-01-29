@@ -5,7 +5,7 @@ Every item does not have to be included in the recipe.
 {items}
 ######
 
-Assuming I have all essential condiments for a {cuisine}. Taking time of {cookingTimePrompt}
+Assuming I have all essential condiments for a {cuisine}. Preferrably only {cookingTimePrompt}minutes amount of time to prepare,
 
 Respond IN THE FOLLOWING FORMAT 
 
